@@ -1,0 +1,58 @@
+body
+{
+    background: cadetblue;
+    margin: 0;
+}
+
+
+.row
+{
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    background: cadetblue;
+    color:white;
+    margin: 0;
+}
+
+
+table
+{
+    text-align: center;
+    width: 80%;
+    background: white;
+    margin-left: 10%;
+    border-collapse: collapse;
+    
+
+}
+
+tbody
+{
+    align-content: center;
+    margin-left: 10%;
+    border-radius: 20px;
+}
+
+table,td,th
+{
+    border: 1px solid black;
+    border-color: cadetblue;
+    
+}
+
+td
+{
+    padding: 20px;
+}
+
+
+tr:hover
+{
+    background: cadetblue;
+    color: white;
+    border-color: white;
+    
+}
+
